@@ -2,6 +2,10 @@
 title: Rules
 sidebar: 
   order: 4
+prev: false
+next:
+  link: /server/s4/setup
+  label: Get started!
 ---
 
 By using Spherico services, you accept to have your creations be photographed and displayed in this server, unless you advise us to the contrary in written form.
