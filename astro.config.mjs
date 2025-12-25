@@ -49,7 +49,7 @@ export default defineConfig({
 				{
 					label: 'Season 4',
 					autogenerate: {
-						directory: 'minecraft/s4', 
+						directory: 'minecraft/S4', 
 						collapsed: false,
 					},
 					badge: {
