@@ -33,7 +33,7 @@
 - Add modpack files to:
     - [ ] `/src/contents/assets`
     - [ ] Google Drive (S5)
-    - [ ] Github repo cuz we're nerdz
+    - [x] Github repo cuz we're nerdz
 
 
 # To test
