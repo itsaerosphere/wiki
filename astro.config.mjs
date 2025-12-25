@@ -9,10 +9,10 @@ export default defineConfig({
     // basic site config
 
     // For site location config
-    // site: "https://spherico.one", // Uncomment when DNS setup is done. 
+    site: "https://wiki.spherico.one", // Uncomment when DNS setup is done. 
     // For Github.
-    site: 'https://spherico-hub.github.io/', // Comment when DNS is setup
-    base: '/wiki/',
+    // site: 'https://spherico-hub.github.io/', // Comment when DNS is setup
+    // base: '/wiki/',
 
     trailingSlash: "ignore",
     integrations: [
@@ -48,7 +48,7 @@ export default defineConfig({
 		{
 		    label: 'Season 4',
 		    autogenerate: {
-			directory: 'server/s4', collapsed: false,
+			directory: '/server/s4', collapsed: false,
 		    },
 		    badge: {
 			text: 'Active',
@@ -58,7 +58,7 @@ export default defineConfig({
 		{
 		    label: 'Season 5',
 		    autogenerate: {
-			directory: 'server/s5', collapsed: false,
+			directory: '/server/s5', collapsed: true,
 		    },
 		    badge: {
 			text: 'Coming soon!',
