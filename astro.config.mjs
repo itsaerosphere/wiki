@@ -47,9 +47,9 @@ export default defineConfig({
 					link: '/minecraft/rules',
 				},
 				{
-					label: 'Season 4',
+					label: 'Minecraft S4',
 					autogenerate: {
-						directory: 'minecraft/S4', 
+						directory: 'minecraft/s4', 
 						collapsed: false,
 					},
 					badge: {
@@ -58,9 +58,9 @@ export default defineConfig({
 					},
 				},
 				{
-					label: 'Season 5',
+					label: 'Minecraft S5',
 					autogenerate: {
-						directory: 'minecraft/s5', 
+						directory: '', 
 						collapsed: true,
 					},
 					badge: {
