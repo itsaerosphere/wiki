@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import { ion } from 'starlight-ion-theme';
+import starlightLinksValidator from 'starlight-links-validator';
 
 
 // https://astro.build/config for more information
@@ -10,9 +11,6 @@ export default defineConfig({
 
     // For site location config
     site: "https://wiki.spherico.one", // Uncomment when DNS setup is done. 
-    // For Github.
-    // site: 'https://spherico-hub.github.io/', // Comment when DNS is setup
-    // base: '/wiki/',
 
     trailingSlash: "ignore",
     integrations: [
