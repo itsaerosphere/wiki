@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2684.4355"
-   height="862.50311"
-   viewBox="0 0 2684.4355 862.50311"
+   width="874.61139"
+   height="799.97876"
+   viewBox="0 0 874.61139 799.97876"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,7 +13,7 @@
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(2034.5319,712.50342)">
+     transform="translate(224.70761,712.50342)">
     <circle
        style="fill:none;stroke:#ffffff;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="path10"
@@ -21,16 +21,6 @@
        cy="-358.25162"
        r="125"
        transform="rotate(30)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:541.872px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       x="-2062.7092"
-       y="23.20204"
-       id="text10"><tspan
-         id="tspan10"
-         x="-2062.7092"
-         y="23.20204"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:541.872px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">spheri</tspan></text>
     <path
        id="circle2"
        style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
