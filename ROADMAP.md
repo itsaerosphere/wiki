@@ -3,8 +3,8 @@
 ## Pages
 
 - [ ] Change S1/S2 to S4/5 in: 
-    - [ ] Astro config in root
-    - [ ] Filepath in `/src/contents/docs`
+    - [x] Astro config in root
+    - [x] Filepath in `/src/contents/docs`
 
 - [ ] Change sidebar config in frontmatters
     - `label` to change title in sidebar
@@ -13,7 +13,7 @@
 - [ ] Consider changing the theming 
     - That's just a wee bit of CSS, but lazyness. 
 
-- [ ] Add a page to document the migration of config files
+- [x] Add a page to document the migration of config files
     - [ ] Eventually the modpack should not replace config files when importing
 
 ## Assets 
@@ -32,7 +32,7 @@
 
 - Add modpack files to:
     - [ ] `/src/contents/assets`
-    - [ ] Google Drive (S5)
+    - [x] Google Drive (S5)
     - [x] Github repo cuz we're nerdz
 
 
@@ -40,7 +40,7 @@
 
 ## Deployment
 
-- [ ] Test deployment on Github pages
+- [x] Test deployment on Github pages
     - View [issues](https://github.com/itsaerosphere/wiki/issues/1) on [failed deploy action](https://github.com/itsaerosphere/wiki/actions/runs/20173385184)
     - [x] Set DNS CNAME record to point from GHP to `spherico.one`
     - Since I have no access to DNS nor repo settings, this is all you brother. 
