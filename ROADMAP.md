@@ -2,11 +2,11 @@
 
 ## Pages
 
-- [ ] Change S1/S2 to S4/5 in: 
+- [x] Change S1/S2 to S4/5 in: 
     - [x] Astro config in root
     - [x] Filepath in `/src/contents/docs`
 
-- [ ] Change sidebar config in frontmatters
+- [x] Change sidebar config in frontmatters
     - `label` to change title in sidebar
     - `order` should already be fine. 
 
@@ -21,9 +21,9 @@
 - [ ] Add permalinks for modpack file in `/src/contents/assets`
     - Add in `/src/contents/docs` if one can't obtain a link to paste in Prism
 
-- [ ] Replace:
-    - [ ] Favicon
-    - [ ] Logo
+- [x] Replace:
+    - [x] Favicon
+    - [x] Logo
 
 - Consider also adding direct download links for resource/shader packs
     - If it exceeds [repo limit](https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits), fuck it. 
@@ -31,7 +31,8 @@
 ## Modpack files
 
 - Add modpack files to:
-    - [ ] `/src/contents/assets`
+    - [-] `/src/contents/assets`
+        - Need to spend more time figuring out LFS
     - [x] Google Drive (S5)
     - [x] Github repo cuz we're nerdz
 
@@ -45,7 +46,7 @@
     - [x] Set DNS CNAME record to point from GHP to `spherico.one`
     - Since I have no access to DNS nor repo settings, this is all you brother. 
 
-- [ ] Test deployment on local server
+- [-] Test deployment on local server
     - Only if repo exceeds 1GB
     - This should only be an issue if we keep multiple modpack files. 
     - This requires an Nginx instance. No, we're not doing Docker.
@@ -59,3 +60,4 @@
 # Other tasks
 
 - [ ] Learn how to use [nvim](https://github.com/neovim/neovim) dammit. [It's not that hard](https://vim.rtorr.com/).
+    - This one is specifically for you Richard. 
